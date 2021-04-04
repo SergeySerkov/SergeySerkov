@@ -1,13 +1,12 @@
-### Hi there 👋, my name is Sergey Serkov
+## Hello! My name is Sergey Serkov, I am Frontend-developer from Moscow. 
 
-#### I am Frontend Developer
+Since January 2020, I have been completing freelance web development orders. The main direction is Frontend development in the JavaScript / TypeScript / React stack. At this stage I want to find a job in a team, take part in the development of a complex product and increase my level of expertise. 
 
-I live in Moscow. Since 2020, I have been completing freelance web development orders. At this stage, I want to find work in a team, take part in the development of a complex product and improve my level of expertise. 
+## The stack of technologies I work with
+- React, Redux, JavaScript (ES6+), TypeScript, Axios, HTML, CSS (SASS/SCSS, Tailwind.css), Bootstrap, Material UI, BEM, Webpack, Gulp, yarn, npm, Git.
 
-##### Skills: JS / REACT / HTML / CSS
+## Contacts
 
-- 📫 How to reach me: sergeyserkov01@mail.ru or telegram: [@sserkov](https://t.me/sserkov)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SergeySerkov)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sserkov)  
+#### Telegram: [@sserkov](https://t.me/sserkov)
+#### LinkedIn: https://www.linkedin.com/in/sserkov
+#### Email: sergeyserkov01@mail.ru 
