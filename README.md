@@ -7,5 +7,5 @@
 
 #### LinkedIn: https://www.linkedin.com/in/sserkov
 #### Email: sergeyserkov01@mail.ru 
-#### tg: [@sserkov](https://t.me/sserkov)
+#### tg: [https://t.me/sserkov](https://t.me/sserkov)
 
